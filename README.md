@@ -79,7 +79,7 @@ Congratulations, you have a pact-broker up and running, now follow the instructi
 
 #### Creating a pact-broker account on pactflow.io
 
-Creating a pact-broker account on pactflow.io is need it for the second part of the workshop. Yo don't need to do this now if you have just created a broker using docker compose.
+Creating a pact-broker account on pactflow.io is need it for the second part of the workshop. You don't need to do this now if you have just created a broker using docker compose.
 
 If you are in the second part of the workshop, navigate to [pactflow.io](https://pactflow.io/) and click on the "Sign up" link
 
